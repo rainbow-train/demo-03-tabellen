@@ -31,7 +31,7 @@ library(plotly)
 
 # Daten
 
-Der Datensatz ["Kosten des Gesundheitswesens nach Leistungen"](https://opendata.swiss/de/dataset/kosten-des-gesundheitswesens-nach-leistungen6) wird vom Bundesamt für Statistik (BFS) publiziert als MS Excel Datei [hier publiziert](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.14840808.html). Die Daten wurden zuletzt am 31.10.2020 für das Jahr 2018 aktualisiert. Diese und weitere Metadaten sind in der MS Excel Datei ab Reihe 44 zu finden.
+Der Datensatz ["Kosten des Gesundheitswesens nach Leistungen"](https://opendata.swiss/de/dataset/kosten-des-gesundheitswesens-nach-leistungen6) wird vom Bundesamt für Statistik (BFS) publiziert als MS Excel Datei [hier publiziert](https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.14840808.html). Die Daten wurden zuletzt am 31.10.2020 für das Jahr 2018 aktualisiert. Diese und weitere Metadaten sind in der MS Excel Datei ab Reihe 44 zu finden. 
 
 # Daten importieren
 
